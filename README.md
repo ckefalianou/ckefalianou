@@ -1,7 +1,5 @@
 ### Hi, I'm Christine 👋
 
-Full-stack developer. Half-stack sanity.
-
 At work I mostly write **Laravel and Vue**. In my spare time I build small tools for my own day-to-day annoyances. Sometimes they turn out useful for other people too. I work on Linux, which is how I ended up writing hardware support for my own peripherals.
 
 #### 🐧 Open source contributions
